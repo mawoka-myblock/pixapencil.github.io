@@ -1,0 +1,21 @@
+#div_outer {
+  width: auto;
+  height: 330px;
+  background: rgb(0,176,155);
+  background: linear-gradient(0deg, rgba(0,176,155,1) 0%, rgba(80,190,111,1) 50%, rgba(131,198,83,1) 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 58px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-size: 36px;
+  color: white;
+  text-align: center;
+}
