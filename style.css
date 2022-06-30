@@ -8,13 +8,13 @@
   align-items: center;
 }
 
-h1 {
+#div_inner h1 {
   font-size: 58px;
   color: white;
   text-align: center;
 }
 
-h2 {
+#div_inner h2 {
   font-size: 36px;
   color: white;
   text-align: center;
