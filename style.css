@@ -67,4 +67,5 @@ iframe {
 #div_inner_inner button:hover {
   background-color: #BBEC97;
   color: white;
+  cursor:pointer;
 }
