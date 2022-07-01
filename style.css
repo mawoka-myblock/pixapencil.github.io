@@ -15,7 +15,6 @@
 #div_inner h1, #div_inner h2 {
   font-size: 58px;
   color: white;
-  font-family: 'Lato';
   font-weight: bold;
   text-align: center;
 }
@@ -25,3 +24,17 @@
   opacity: 0.7;
   font-weight: 400;
 }
+
+.navbar .navbar-brand {
+  font-weight: bold;
+}
+
+.navbar .navbar-nav {
+  margin-left: auto; 
+  margin-right: 0;
+}
+
+.navbar {
+  background-color: #BBEC97;
+}
+
