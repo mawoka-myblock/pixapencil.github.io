@@ -3,7 +3,7 @@
 
 #div_outer {
   width: auto;
-  height: 330px;
+  height: 30vh;
 
   background: rgb(0,176,155);
   background: linear-gradient(0deg, rgba(0,176,155,1) 0%, rgba(80,190,111,1) 50%, rgba(131,198,83,1) 100%);
@@ -26,9 +26,14 @@
   font-weight: 400;
 }
 
+#div_vid {
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 iframe {
-  margin:auto;
-  display:block;
   box-shadow: 0px 0px 50px 10px rgba(0, 0, 0, 0.2);
 }
 
