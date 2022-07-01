@@ -57,3 +57,14 @@ iframe {
   background-color: #BBEC97;
 }
 
+#div_inner_inner button {
+  margin: 8px;
+  color: #BBEC97;
+  border-color: #BBEC97;
+  border-radius: 0px;
+}
+
+#div_inner_inner button:hover {
+  background-color: #BBEC97;
+  color: white;
+}
