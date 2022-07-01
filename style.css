@@ -69,3 +69,16 @@ iframe {
   color: white;
   cursor:pointer;
 }
+
+#div_inner_inner button.active.focus, 
+#div_inner_inner button.active:focus,
+#div_inner_inner button.focus, 
+#div_inner_inner button:active.focus, 
+#div_inner_inner button:active:focus, 
+#div_inner_inner button:focus,
+#div_inner_inner button:active {
+  background-color: #BBEC97;
+  color: white;
+  cursor:pointer;
+}
+
