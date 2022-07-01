@@ -6,23 +6,21 @@
   height: 330px;
   background: rgb(0,176,155);
   background: linear-gradient(0deg, rgba(0,176,155,1) 0%, rgba(80,190,111,1) 50%, rgba(131,198,83,1) 100%);
+ 
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-#div_inner h1 {
+#div_inner h1, #div_inner h2 {
   font-size: 58px;
   color: white;
-  text-align: center;
   font-family: 'Lato';
   font-weight: bold;
+  text-align: center;
 }
 
 #div_inner h2 {
-  font-size: 36px;
-  color: white;
-  text-align: center;
-  font-family: 'Lato';
-  font-weight: lighter;
+  font-size: 22px;
+  opacity: 0.7;
 }
