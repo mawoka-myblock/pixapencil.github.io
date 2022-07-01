@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+
 #div_outer {
   width: auto;
   height: 330px;
@@ -12,10 +15,14 @@
   font-size: 58px;
   color: white;
   text-align: center;
+  font-family: 'Lato';
+  font-weight: bold;
 }
 
 #div_inner h2 {
   font-size: 36px;
   color: white;
   text-align: center;
+  font-family: 'Lato';
+  font-weight: lighter;
 }
