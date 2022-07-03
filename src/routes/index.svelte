@@ -1,6 +1,10 @@
 <script lang="ts">
 </script>
 
+<svelte:head>
+    <title>PixaPencil</title>
+</svelte:head>
+
 <div class="pt-16">
 	<div class="text-center mt-20">
 		<h1 class="text-7xl">PixaPencil</h1>
